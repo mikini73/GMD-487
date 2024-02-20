@@ -1083,11 +1083,11 @@ MonoBehaviour:
   - {fileID: 1443597086}
   - {fileID: 1615235544}
   - {fileID: 1973286049}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 1287814420}
+  - {fileID: 689844104}
+  - {fileID: 2091681411}
+  - {fileID: 681059702}
+  - {fileID: 1561687577}
 --- !u!4 &319816697
 Transform:
   m_ObjectHideFlags: 0
