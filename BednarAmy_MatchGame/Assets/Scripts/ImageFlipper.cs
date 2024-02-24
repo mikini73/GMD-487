@@ -6,11 +6,11 @@ public class ImageFlipper : MonoBehaviour
 {
    
     public float revealTime = 2f; // Time to reveal the images before flipping them back
-    public Sprite backImage;
-    private Sprite frontImage;
+    public Sprite backImage;        //red image with border, shows when Tile is upside down
+    private Sprite frontImage;      //  Shows when tile is right side up
     private List<SpriteRenderer> tiles = new List<SpriteRenderer>();
-    public Image spriteBack;
-    public Sprite[] icons;
+    public Image spriteBack;        //from generated insert
+    public Sprite[] icons;          //Insert number of icons/Insert Sprites
     void Start()
     {
         StartCoroutine(ShowImages());
@@ -19,13 +19,13 @@ public class ImageFlipper : MonoBehaviour
     IEnumerator ShowImages()
     {
 
-        spriteBack.sprite = icons[Random.Range(0,3)];
-        frontImage = spriteBack.sprite;
-        yield return new WaitForSeconds(revealTime);   
-        spriteBack.sprite = backImage;    
+        spriteBack.sprite = icons[Random.Range(0,3)];   // Random Sprite is generated
+        frontImage = spriteBack.sprite;                 // Random Sprite becomes frontImage
+        yield return new WaitForSeconds(revealTime);    //Reveal time is pulled from public Reveal Time
+        spriteBack.sprite = backImage;                  // Random Sprite is hidden
     }
 
-    public void onClick()
+    public void onClick() //If card is clicked, makes from enriched become the icon, for up to two clicks
     {
         if (matchManager.instance.noOfClick < 2)
         {

@@ -8,7 +8,7 @@ public class matchManager : MonoBehaviour
 
     public Image firstImageClicked, secondImageClicked;
     public static matchManager instance;
-    public Sprite emptyTile;
+    public Sprite emptyTile; //Red image tile with border
     public scoreManager scoreManage;
     private void Awake()
     {
@@ -34,7 +34,7 @@ public class matchManager : MonoBehaviour
    
     }
 
-    public void checkMatch()
+    public void checkMatch() //Checks if 2 cards clicked are matched
     {
         if(firstImageClicked.sprite==secondImageClicked.sprite)
         {
