@@ -14,7 +14,7 @@ public class scoreManager : MonoBehaviour
         
     }
 
-    public void incrementScore()
+    public void incrementScore() //Counts number of matches
     {
         scores+= 10;
         scoreTxt.text = scores.ToString();
