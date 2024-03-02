@@ -24,9 +24,17 @@ public class matchManager : MonoBehaviour
         }
         else
         {
-            secondImageClicked = obj;
-            noOfClick++;
-            Invoke("checkMatch", 1);
+           
+                secondImageClicked = obj;
+            if (firstImageClicked != secondImageClicked)
+            {
+                noOfClick++;
+                Invoke("checkMatch", 1);
+            }
+            else
+            {
+                secondImageClicked = null;
+            }
            
             
         }

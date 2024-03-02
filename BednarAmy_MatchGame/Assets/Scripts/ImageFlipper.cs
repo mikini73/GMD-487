@@ -11,6 +11,7 @@ public class ImageFlipper : MonoBehaviour
     private List<SpriteRenderer> tiles = new List<SpriteRenderer>();
     public Image spriteBack;        //from generated insert
     public Sprite[] icons;          //Insert number of icons/Insert Sprites
+    private bool isClickable = false;
     void Start()
     {
         StartCoroutine(ShowImages());
@@ -22,18 +23,23 @@ public class ImageFlipper : MonoBehaviour
         spriteBack.sprite = icons[Random.Range(0,3)];   // Random Sprite is generated
         frontImage = spriteBack.sprite;                 // Random Sprite becomes frontImage
         yield return new WaitForSeconds(revealTime);    //Reveal time is pulled from public Reveal Time
-        spriteBack.sprite = backImage;                  // Random Sprite is hidden
+        spriteBack.sprite = backImage;
+        // Random Sprite is hidden
+        isClickable = true;
     }
 
     public void onClick() //If card is clicked, makes from enriched become the icon, for up to two clicks
     {
-        if (matchManager.instance.noOfClick < 2)
+        if (isClickable == true)
         {
-            Debug.Log("clicked");
+            if (matchManager.instance.noOfClick < 2)
+            {
+                Debug.Log("clicked");
 
-            spriteBack.sprite = frontImage;
+                spriteBack.sprite = frontImage;
 
-            matchManager.instance.clickedOnImage(spriteBack);
+                matchManager.instance.clickedOnImage(spriteBack);
+            }
         }
     }
 }
