@@ -612,7 +612,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36cffa5135dad6d419b645a4e3ac0c1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timerText: {fileID: 0}
+  timerText: {fileID: 49665563}
   totalTime: 60
 --- !u!222 &402567633
 CanvasRenderer:
