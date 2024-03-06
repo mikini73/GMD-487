@@ -6,7 +6,9 @@ using UnityEngine.UI;
 
 public class Timer : MonoBehaviour
 {
-    public TextMeshProUGUI timerText;
+    public Text timerText;
+    //WHY won't it accept the line below? I get a red flag.
+    //public TextMeshProUGUI timerText;
     public float totalTime = 60f; // Total time in seconds
 
     private float timeRemaining;
@@ -18,7 +20,7 @@ public class Timer : MonoBehaviour
         {
             timerText = GetComponent<Text>();
         }
-
+        
         timeRemaining = totalTime;
     }
 
