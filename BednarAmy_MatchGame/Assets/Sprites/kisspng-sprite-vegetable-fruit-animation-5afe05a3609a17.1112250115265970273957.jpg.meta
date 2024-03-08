@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: baaa039ba5eba3d47a43323862f8a51b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1760650361343021080
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_0
+  - first:
+      213: 2609566420702678407
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_1
+  - first:
+      213: 8800316023168917280
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_2
+  - first:
+      213: 1796054759620077021
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_3
+  - first:
+      213: -1616701008508988547
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_4
+  - first:
+      213: 5412987572655889458
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_5
+  - first:
+      213: 1258964007749608736
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_6
+  - first:
+      213: -8372276499102227821
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_7
+  - first:
+      213: -4120351906906122099
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_8
+  - first:
+      213: -3369518606819027185
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_9
+  - first:
+      213: -7349752288691239711
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_10
+  - first:
+      213: -6618130711993513537
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_11
+  - first:
+      213: 304728517174783852
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_12
+  - first:
+      213: -6695929816303238959
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_13
+  - first:
+      213: -3822144512379198828
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_14
+  - first:
+      213: 8949179881388835809
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_15
+  - first:
+      213: -4139594426538801566
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_16
+  - first:
+      213: -3421325714477509401
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_17
+  - first:
+      213: -7798237217040747238
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_18
+  - first:
+      213: -347567724952589730
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_19
+  - first:
+      213: -6101037624491206123
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_20
+  - first:
+      213: -8549511538415359122
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_21
+  - first:
+      213: -2302006068138257321
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_22
+  - first:
+      213: 711695051602413601
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_23
+  - first:
+      213: 8460351573635497328
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_24
+  - first:
+      213: 8071312941513693810
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_25
+  - first:
+      213: 6153653820345554539
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_26
+  - first:
+      213: -6833177971184561765
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_27
+  - first:
+      213: 2049358817754494133
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_28
+  - first:
+      213: 7264760012175320625
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_29
+  - first:
+      213: 8747069773242738457
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_30
+  - first:
+      213: 1645820551303069602
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_31
+  - first:
+      213: -5975692194178963946
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_32
+  - first:
+      213: -8131507102015866452
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_33
+  - first:
+      213: -4168462315249018085
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_34
+  - first:
+      213: 9184436033301444742
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_35
+  - first:
+      213: 8406986264463119372
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_36
+  - first:
+      213: -1257782767014199986
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_37
+  - first:
+      213: 8906756418536021943
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_38
+  - first:
+      213: -3550459212921223501
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_39
+  - first:
+      213: -318920271182713868
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_40
+  - first:
+      213: -6619816370053330461
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_41
+  - first:
+      213: -1602841719423148095
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_42
+  - first:
+      213: 2185489816317873799
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_43
+  - first:
+      213: -1604537710521676354
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_44
+  - first:
+      213: 5272809283174131275
+    second: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 415
+        width: 145
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d45c365da073420800000000000000
+      internalID: 2609566420702678407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 410
+        width: 155
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f59280cc0012a70800000000000000
+      internalID: 8800316023168917280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_4
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 410
+        width: 141
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d735ec79ff25099e0800000000000000
+      internalID: -1616701008508988547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 408
+        width: 150
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025eae2481db87110800000000000000
+      internalID: 1258964007749608736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 194
+        width: 159
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e30145ffafd13c70800000000000000
+      internalID: 8949179881388835809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 198
+        width: 146
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e498afb3620580d0800000000000000
+      internalID: -3421325714477509401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_18
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 209
+        width: 175
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a153e04619817c390800000000000000
+      internalID: -7798237217040747238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 178
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75453d57da1ad00e0800000000000000
+      internalID: -2302006068138257321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_24
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 31
+        width: 178
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07df57d6ee4396570800000000000000
+      internalID: 8460351573635497328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-vegetable-fruit-animation-5afe05a3609a17.1112250115265970273957_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 8
+        width: 169
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b661c60db8b266550800000000000000
+      internalID: 6153653820345554539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a867246c775c165429915f7d755b486c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
