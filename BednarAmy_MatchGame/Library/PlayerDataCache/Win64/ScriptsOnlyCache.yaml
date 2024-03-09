@@ -3,6 +3,7 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - ImageFlipper
     - MainMenu
+    - Timer
     - gameManager
     - imageSwap
     - matchManager
@@ -31,7 +32,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Slider
     - UnityEngine.UI.VerticalLayoutGroup
   sceneClasses:
-    Assets/Scenes/2x5Level1.unity:
+    Assets/Scenes/2x5Level2.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -53,35 +54,37 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11274}
+      Script: {instanceID: 11256}
     - Class: 114
-      Script: {instanceID: 11478}
+      Script: {instanceID: 11276}
     - Class: 114
-      Script: {instanceID: 11870}
+      Script: {instanceID: 11410}
     - Class: 114
-      Script: {instanceID: 11882}
+      Script: {instanceID: 11490}
     - Class: 114
-      Script: {instanceID: 11898}
+      Script: {instanceID: 11894}
     - Class: 114
-      Script: {instanceID: 11938}
+      Script: {instanceID: 11906}
     - Class: 114
-      Script: {instanceID: 12272}
+      Script: {instanceID: 11922}
     - Class: 114
-      Script: {instanceID: 12368}
+      Script: {instanceID: 11964}
     - Class: 114
-      Script: {instanceID: 12496}
+      Script: {instanceID: 12404}
     - Class: 114
-      Script: {instanceID: 12500}
+      Script: {instanceID: 12536}
     - Class: 114
-      Script: {instanceID: 12716}
+      Script: {instanceID: 12540}
     - Class: 114
-      Script: {instanceID: 12780}
+      Script: {instanceID: 12768}
     - Class: 114
-      Script: {instanceID: 13090}
+      Script: {instanceID: 12832}
     - Class: 114
-      Script: {instanceID: 13160}
+      Script: {instanceID: 13152}
     - Class: 114
-      Script: {instanceID: 13200}
+      Script: {instanceID: 13222}
+    - Class: 114
+      Script: {instanceID: 13264}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -118,35 +121,35 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11274}
+      Script: {instanceID: 11256}
     - Class: 114
-      Script: {instanceID: 11478}
+      Script: {instanceID: 11276}
     - Class: 114
-      Script: {instanceID: 11870}
+      Script: {instanceID: 11490}
     - Class: 114
-      Script: {instanceID: 11902}
+      Script: {instanceID: 11894}
     - Class: 114
-      Script: {instanceID: 12272}
+      Script: {instanceID: 11926}
     - Class: 114
-      Script: {instanceID: 12500}
+      Script: {instanceID: 12540}
     - Class: 114
-      Script: {instanceID: 12516}
+      Script: {instanceID: 12556}
     - Class: 114
-      Script: {instanceID: 12716}
+      Script: {instanceID: 12768}
     - Class: 114
-      Script: {instanceID: 12780}
+      Script: {instanceID: 12832}
     - Class: 114
-      Script: {instanceID: 12836}
+      Script: {instanceID: 12888}
     - Class: 114
-      Script: {instanceID: 12948}
+      Script: {instanceID: 13010}
     - Class: 114
-      Script: {instanceID: 13058}
+      Script: {instanceID: 13120}
     - Class: 114
-      Script: {instanceID: 13160}
+      Script: {instanceID: 13222}
     - Class: 114
-      Script: {instanceID: 13190}
+      Script: {instanceID: 13252}
     - Class: 114
-      Script: {instanceID: 13636}
+      Script: {instanceID: 14380}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -164,6 +167,12 @@ ScriptsOnlyBuild:
     - Class: 224
       Script: {instanceID: 0}
   scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
   - hash:
       serializedVersion: 2
       Hash: 4bc4346a71a8df53a6b106f68ef3a190
@@ -206,6 +215,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
     className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: dd957015cf36ada42652373c188d3bee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Timer
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -418,7 +433,7 @@ ScriptsOnlyBuild:
     className: Benchmark01
   - hash:
       serializedVersion: 2
-      Hash: 9ffc8c459ac38907639102092486f479
+      Hash: a8295745b1965239125bb6f253a36fa1
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: gameManager
@@ -470,12 +485,6 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ChatController
-  - hash:
-      serializedVersion: 2
-      Hash: 5f1752ed2092162f016c19510c28a8b9
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Button
   - hash:
       serializedVersion: 2
       Hash: f84d945e5e1ca985698660fc26e9657f
@@ -851,6 +860,6 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/MainMenu.unity
-  - Assets/Scenes/2x5Level1.unity
+  - Assets/Scenes/2x5Level2.unity
   playerPath: C:/Users/Owner/Documents/GMD 487 Sr Project/GMD-487/BednarAmy_MatchGame/Match
     Game.exe
