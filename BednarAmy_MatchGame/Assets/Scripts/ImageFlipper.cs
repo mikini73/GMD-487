@@ -20,7 +20,7 @@ public class ImageFlipper : MonoBehaviour
     IEnumerator ShowImages()
     {
 
-        spriteBack.sprite = icons[Random.Range(0,3)];   // Random Sprite is generated
+        spriteBack.sprite = icons[Random.Range(0,13)];   // Random Sprite is generated
         frontImage = spriteBack.sprite;                 // Random Sprite becomes frontImage
         yield return new WaitForSeconds(revealTime);    //Reveal time is pulled from public Reveal Time
         spriteBack.sprite = backImage;
