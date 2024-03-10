@@ -12,11 +12,13 @@ public class Timer : MonoBehaviour
     public float totalTime = 60f; // Total time in seconds
 
     private float timeRemaining;
+    public GameObject looseCanvas;
 
     void Start()
     {
 
         timeRemaining = totalTime;
+        timerText.text = timeRemaining.ToString();
     }
 
     void Update()
@@ -31,8 +33,15 @@ public class Timer : MonoBehaviour
             // Timer has reached zero, do something (e.g., end game)
             Debug.Log("Time's up!");
             timeRemaining = 0;
+            looseGameFunc();
             UpdateTimerDisplay();
         }
+    }
+
+    public void looseGameFunc()
+    {
+        looseCanvas.SetActive(true);
+        Time.timeScale = 0;
     }
 
     void UpdateTimerDisplay()

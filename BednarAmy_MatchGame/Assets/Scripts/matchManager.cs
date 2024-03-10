@@ -10,6 +10,9 @@ public class matchManager : MonoBehaviour
     public static matchManager instance;
     public Sprite emptyTile; //Red image tile with border
     public scoreManager scoreManage;
+    public int noOfMatches;
+    public GameObject winCanvas;
+    public gameManager manager;
     private void Awake()
     {
         instance=this;
@@ -47,6 +50,9 @@ public class matchManager : MonoBehaviour
         if(firstImageClicked.sprite==secondImageClicked.sprite)
         {
             Debug.Log("Match");
+            noOfMatches++;
+            
+           
             Destroy(firstImageClicked.transform.parent.gameObject);
             Destroy(secondImageClicked.transform.parent.gameObject);
             //firstImageClicked.sprite = emptyTile;
@@ -55,6 +61,11 @@ public class matchManager : MonoBehaviour
             secondImageClicked = null;
             scoreManage.incrementScore();
             noOfClick = 0;
+            if(noOfMatches== manager.tilesCount/2)
+            {
+                winFunction();
+                
+            }
         }
         else
         {
@@ -65,5 +76,10 @@ public class matchManager : MonoBehaviour
             secondImageClicked = null;
             noOfClick = 0;
         }
+    }
+    public void winFunction()
+    {
+        winCanvas.SetActive(true);
+        Time.timeScale = 0;
     }
 }
