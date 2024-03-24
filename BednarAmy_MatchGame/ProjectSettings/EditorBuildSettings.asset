@@ -12,13 +12,13 @@ EditorBuildSettings:
     path: Assets/Scenes/4x2Level1 - Easy.unity
     guid: 0affc7d44749f39419bad3ad6f65fd76
   - enabled: 1
-    path: Assets/Scenes/4x2Level2 - Hard.unity
+    path: Assets/Scenes/4x3Level2 - Hard.unity
     guid: 63073182e0a69f444a37b6952884543e
   - enabled: 1
-    path: Assets/Scenes/5x4Level3 - Easy.unity
+    path: Assets/Scenes/4x5Level3 - Easy.unity
     guid: 904fdd200d3459849b6101c35350195c
   - enabled: 1
-    path: Assets/Scenes/5x4Level4 - Hard.unity
+    path: Assets/Scenes/4x7Level4 - Hard.unity
     guid: f4a8ab4a1f07059459f8fd3f19fab80a
   - enabled: 1
     path: Assets/Scenes/You Win!.unity
